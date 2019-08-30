@@ -1,0 +1,13 @@
+[user]
+    name = Sam Wingrave
+    email = lesock@talktalk.net
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current

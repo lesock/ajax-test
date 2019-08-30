@@ -1,0 +1,12 @@
+{
+  "name": "ajax-test",
+  "id": "6803109",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "default",
+  "dockerBaseImage": "cloud9/ws-default:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "lesock",
+    "id": "2286329"
+  }
+}
